@@ -1,0 +1,23 @@
+html,
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    .accordion-item {
+      border: none;
+      background: none;
+    }
+
+    .nav .nav-link:hover {
+      color: blue;
+    }
+
+    .nav .nav-link.active {
+      color: white;
+      background-color: blue;
+    }
+
+    .hover-effect {
+      color: #3d3d3d;
+    }
